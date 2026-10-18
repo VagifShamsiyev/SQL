@@ -140,8 +140,6 @@ Here is an analysis of the primary technical requirements for data analysts in 2
 
 - Core **programming** and **visualization** platforms—such as **Python**, **Tableau**, and **Power BI**—are indispensable, highlighting the growing reliance on advanced data storytelling and analytical decision support.
 
-İstediğin verilerin doğrudan Markdown tablo formatı:
-
 | Skills | Demand Count |
 | --- | --- |
 | SQL | 7,291 |
@@ -183,8 +181,6 @@ An evaluation of the compensation metrics tied to specific competencies highligh
 * **Software Engineering & Pipeline Automation Integration:** Proficiency in developer tools and orchestration platforms (GitLab, Kubernetes, Airflow) reveals a lucrative intersection between traditional analysis and engineering, where automated workflows and pipeline efficiency command significant wage premiums.
 * **Cloud Architecture & Infrastructure Mastery:** Expertise in cloud analytics and data engineering environments (Elasticsearch, Databricks, GCP) emphasizes the critical role of cloud infrastructure, demonstrating a direct correlation between cloud competence and elevated compensation tiers in the analytics space.
 
-İstediğin verilerin doğrudan Markdown tablo formatı:
-
 | Skills | Average Salary ($) |
 | --- | --- |
 | pyspark | 208,172 |
@@ -225,7 +221,6 @@ ORDER BY
     demand_count DESC
 LIMIT 25;
 ```
-İstediğin verilerin doğrudan Markdown tablo formatı:
 
 | Skill ID | Skills | Demand Count | Average Salary ($) |
 | --- | --- | --- | --- |
